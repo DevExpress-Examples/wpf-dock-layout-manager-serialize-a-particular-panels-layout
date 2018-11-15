@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DX WPF Application10/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DX WPF Application10/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DX WPF Application10/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DX WPF Application10/MainWindow.xaml))
+<!-- default file list end -->
 # How to serialize a particular panel layout
 
 
