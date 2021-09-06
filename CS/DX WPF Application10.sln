@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DX WPF Application10", "DX WPF Application10\DX WPF Application10.csproj", "{1E667D75-0EB9-4B48-BD70-68C362D06680}"
 EndProject
 Global
